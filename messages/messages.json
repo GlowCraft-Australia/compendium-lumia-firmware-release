@@ -1,0 +1,94 @@
+[
+  {
+    "id": "welcome-v1",
+    "type": "content",
+    "title": "Welcome",
+    "message": "Welcome to the Dice Compendium App! Track and organize your dice collection, connect with GlowCraft Lumia devices, and explore all the features we have in store. This is a beta version—check the App Info for important details about data and privacy.",
+    "dismissible": false,
+    "startDate": "2024-01-01T00:00:00Z",
+    "priority": 100
+  },
+  {
+    "id": "example-critical-update-required",
+    "type": "critical",
+    "title": "Update Required",
+    "message": "A critical update is required to continue using the Dice Compendium App. Please update to the latest version from the app store.",
+    "link": {
+      "text": "Update Now",
+      "url": "https://github.com/GlowCraft-Australia/dice-compendium-app/releases",
+      "type": "external"
+    },
+    "dismissible": false,
+    "startDate": "2099-01-01T00:00:00Z",
+    "endDate": "2099-12-31T23:59:59Z",
+    "priority": 100,
+    "targetVersion": "1.0.0",
+    "icon": "system-update"
+  },
+  {
+    "id": "example-critical-dismissible",
+    "type": "critical",
+    "title": "Important Security Update",
+    "message": "A security update is available. We strongly recommend updating as soon as possible to ensure your data remains secure.",
+    "link": {
+      "text": "View Update",
+      "url": "https://github.com/GlowCraft-Australia/dice-compendium-app/releases",
+      "type": "external"
+    },
+    "dismissible": true,
+    "startDate": "2099-01-01T00:00:00Z",
+    "endDate": "2099-12-31T23:59:59Z",
+    "priority": 90,
+    "icon": "security"
+  },
+  {
+    "id": "example-announcement-1",
+    "type": "announcement",
+    "title": "New Feature Coming Soon!",
+    "message": "We're working on exciting new features for the Dice Compendium App. Stay tuned for updates!",
+    "dismissible": true,
+    "startDate": "2024-11-01T00:00:00Z",
+    "endDate": "2024-12-31T23:59:59Z",
+    "priority": 50,
+    "icon": "new-releases"
+  },
+  {
+    "id": "example-update-1",
+    "type": "update",
+    "title": "App Update Available",
+    "message": "Version 1.6.0 is now available with bug fixes and performance improvements.",
+    "link": {
+      "text": "View Release Notes",
+      "url": "https://github.com/GlowCraft-Australia/dice-compendium-app/releases",
+      "type": "external"
+    },
+    "dismissible": true,
+    "startDate": "2024-11-15T00:00:00Z",
+    "priority": 75,
+    "targetVersion": ">=1.5.0"
+  },
+  {
+    "id": "example-warning-1",
+    "type": "warning",
+    "title": "Maintenance Notice",
+    "message": "Scheduled maintenance on November 30th may affect connectivity features.",
+    "dismissible": true,
+    "startDate": "2024-11-25T00:00:00Z",
+    "endDate": "2024-11-30T23:59:59Z",
+    "priority": 80
+  },
+  {
+    "id": "example-info-1",
+    "type": "info",
+    "title": "Beta Testing",
+    "message": "Thank you for participating in our beta program! Your feedback helps us improve the app.",
+    "link": {
+      "text": "Send Feedback",
+      "url": "https://github.com/GlowCraft-Australia/dice-compendium-app/issues",
+      "type": "external"
+    },
+    "dismissible": true,
+    "startDate": "2024-11-01T00:00:00Z",
+    "priority": 25
+  }
+]
