@@ -9,6 +9,16 @@
     "priority": 100
   },
   {
+    "id": "thankyou-kickstarter-v1",
+    "type": "content",
+    "title": "Thank You",
+    "message": "A huge thanks to all our Kickstarter backers! Your support made the Dice Compendium App possible. It was a huge undertaking but we're super excited to finally get Compendium Lumias to you!",
+    "dismissible": false,
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2026-02-02T00:00:00Z",
+    "priority": 200
+  },
+  {
     "id": "example-critical-update-required",
     "type": "critical",
     "title": "Update Required",
@@ -48,7 +58,7 @@
     "message": "We're working on exciting new features for the Dice Compendium App. Stay tuned for updates!",
     "dismissible": true,
     "startDate": "2024-11-01T00:00:00Z",
-    "endDate": "2024-12-31T23:59:59Z",
+    "endDate": "2025-12-31T23:59:59Z",
     "priority": 50,
     "icon": "new-releases"
   },
