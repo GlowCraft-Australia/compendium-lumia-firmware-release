@@ -32,7 +32,7 @@
     "startDate": "2024-01-01T00:00:00Z",
     "endDate": "2099-12-31T23:59:59Z",
     "priority": 100,
-    "targetVersion": "1.0.0",
+    "targetVersion": "<=1.5.0",
     "icon": "system-update"
   },
   {
