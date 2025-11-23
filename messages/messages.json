@@ -26,10 +26,11 @@
     "link": {
       "text": "Update Now",
       "url": "https://github.com/GlowCraft-Australia/dice-compendium-app/releases",
-      "type": "external"
+      "type": "external",
+      "platform": "android"
     },
     "dismissible": false,
-    "startDate": "2024-01-01T00:00:00Z",
+    "startDate": "2099-01-01T00:00:00Z",
     "endDate": "2099-12-31T23:59:59Z",
     "priority": 100,
     "targetVersion": "<=1.5.3",
